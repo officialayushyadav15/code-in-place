@@ -4,7 +4,9 @@
 
 Your task: Karel has picked up a new hobby: doing puzzles! Karel is trying to complete this puzzle made up of beepers. When complete, the puzzle should look like this:
 
-![Puzzle Result](result.jpeg)
+![Sample Result](result.jpeg)
+
+You can solve this using the Karel programming environment provided in Stanford's Code in Place course.
 
 ## Solution Link
 
