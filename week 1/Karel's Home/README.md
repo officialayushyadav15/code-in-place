@@ -7,7 +7,9 @@ Your task is to write a program in `main.py` that makes **Karel** perform the fo
 - Pick up a beeper.
 - Return back into her house.
 
-You will use the Stanford Code in Place Karel programming environment to implement this logic.
+![Sample Result](result.jpeg)
+
+You can solve this using the Karel programming environment provided in Stanford's Code in Place course.
 
 ## Solution Link
 
