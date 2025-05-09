@@ -15,20 +15,8 @@ Your task is to write a program that makes **Karel** perform the following actio
 The given program is designed to control Karel, a robot in a simple programming environment, to perform a series of actions. Here's how it works:
 
 1. **Imports the Karel library**:
-   ```python
-   from karel.stanfordkarel import *
-```
-
-This imports the necessary functions and classes to control Karel.
-
+  
 2. **The main function**:
-
-   ```python
-   def main():
-       move()
-       pick_beeper()
-       move()
-   ```
 
    * `move()`: Moves Karel one step forward.
    * `pick_beeper()`: Makes Karel pick up a beeper from the current location.
@@ -42,20 +30,6 @@ The program performs exactly what is required:
 2. Pick up the beeper.
 3. Move Karel one more step forward.
 
-The code snippet below achieves this:
-
-```python
-from karel.stanfordkarel import *
-
-def main():
-    move()           # Move forward one step
-    pick_beeper()    # Pick up a beeper
-    move()           # Move forward one more step
-
-if __name__ == '__main__':
-    main()
-```
-
 ### How the program works:
 
 1. Karel moves forward by one step.
@@ -67,6 +41,4 @@ This fulfills the task requirements.
 ## Solution Link
 
 [Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/V1GlcDzWliSTKrn2Rau2)
-
-```
 
