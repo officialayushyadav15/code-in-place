@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Your task: Karel has picked up a new hobby: doing puzzles! Karel is trying to complete this puzzle made up of beepers. When complete, the puzzle should look like this:
+Your task: Karel has picked up a new hobby: doing puzzles! Karel is trying to complete this puzzle made up of beepers. 
 
 ![Sample Result](result.jpeg)
 
