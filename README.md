@@ -97,7 +97,9 @@ Let’s connect:
 
 * 📧 Email: [officialayushyadav15@gmail.com](mailto:officialayushyadav15@gmail.com)
 * 💼 GitHub: [@officialayushyadav15](https://github.com/officialayushyadav15)
+* 🔗 LinkedIn: [Ayush Yadav](https://www.linkedin.com/in/ayush-yadav-408924230/)
 * 🌐 Code in Place Referral: [Join the course](https://codeinplace.stanford.edu/public/join/cip5?r=464500918)
+
 
 
 
