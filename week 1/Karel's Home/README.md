@@ -1,11 +1,14 @@
-# Karel: Pick Up Beeper and Return Home
+# Karel Beeper Pick-Up and Return Task
 
 ## Problem Statement
 
-Your task is to write a program in `main.py` that makes Karel pick up a beeper and go back into her house.
+Your task is to write a program in `main.py` that makes **Karel** perform the following actions:
 
-You can access the starter world and problem details at the following link:
+- Pick up a beeper.
+- Return back into her house.
 
-👉 [View the Problem on Code in Place](https://codeinplace.stanford.edu/cip5/share/SuK0AfNeEUbc9WITy6OR)
+You will use the Stanford Code in Place Karel programming environment to implement this logic.
 
+## Solution Link
 
+[Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/SuK0AfNeEUbc9WITy6OR)
