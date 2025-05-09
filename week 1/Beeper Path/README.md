@@ -1,10 +1,15 @@
-# Karel: Pick Up Beeper and Return Home
+# Karel Beeper Path Follow
 
 ## Problem Statement
 
-Your task is to write a program in `main.py` that makes Karel pick up a beeper and go back into her house.
+Karel was trying to get back home but got lost! Luckily, they set a path of beepers down as they were traveling earlier. Write a program that makes Karel follow and travel past the end of a straight line of beepers so they can make it home!
 
-You can access the starter world and problem details at the following link:
+![Sample Result](result.jpeg)
 
-👉 [View the Problem on Code in Place](https://codeinplace.stanford.edu/cip5/share/SuK0AfNeEUbc9WITy6OR)
+## Solution Link
+
+[Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/mRqjNPAKVWzgTOFDEJk8)
+
+
+
 
