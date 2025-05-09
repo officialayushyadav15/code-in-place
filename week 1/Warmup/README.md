@@ -8,6 +8,8 @@ Your task is to write a program that makes **Karel** perform the following actio
 2. Pick up a beeper.
 3. Move forward one more step.
 
+![Sample Result](result.jpeg)
+
 You can solve this using the Karel programming environment provided in Stanford's Code in Place course.
 
 ## Solution Link
