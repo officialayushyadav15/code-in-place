@@ -10,7 +10,7 @@ Write a program that generates and prints 10 random numbers in the range of 1 to
 ![Sample Result](result.jpeg)
 
 
-You can solve this using the Karel programming environment provided in Stanford's *Code in Place* course.
+You can solve this using the python programming environment provided in Stanford's *Code in Place* course.
 
 ## Solution Link
 

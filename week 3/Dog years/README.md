@@ -6,7 +6,7 @@ Your task: Write a program which asks a user to input an age in human years, and
 
 ![Sample Result](result.jpeg)
 
-You can solve this using the Karel programming environment provided in Stanford's Code in Place course.
+You can solve this using the python programming environment provided in Stanford's Code in Place course.
 
 ## Solution Link
 
