@@ -5,13 +5,10 @@
 
 ## Problem Statement
 
-Write a simple **joke bot**. The bot starts by asking the user what they want.  
-However, your program will only respond to **one** response: `Joke`.
+Write a simple joke bot. The bot starts by asking the user what they want. However, your program will only respond to one response: `Joke`.
 
-If the user types anything other than "Joke", the bot ignores the request and asks again.  
-Once the user types `Joke`, the bot replies with a joke and ends.
+If the user types `Joke`, your bot should respond with a funny line. For any other response, the bot should say something like "Sorry, I only tell jokes."
 
-This program should run in a loop until the user types the exact word `Joke` (case-sensitive).
 
 ![Sample Result](result.jpeg)
 
