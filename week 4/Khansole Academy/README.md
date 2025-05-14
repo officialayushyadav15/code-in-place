@@ -19,7 +19,6 @@ Write a program that randomly generates a simple addition problem for the user, 
 - It prints whether the user is **correct or incorrect**, and shows the right answer if they got it wrong.
 
 
-The result should look something like this:
 
 ![Sample Result](result.jpeg)
 
