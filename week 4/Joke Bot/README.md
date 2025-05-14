@@ -4,15 +4,17 @@
 
 ## Problem Statement
 
-Write a simple joke bot. The bot starts by asking the user what they want. However, your program will only respond to one response: Joke.
+Write a simple **joke bot**. The bot starts by asking the user what they want.  
+However, your program will only respond to **one** response: `Joke`.
 
-If the user enters Joke then we will print out a single joke. Each time the joke is always the same:
+If the user types anything other than "Joke", the bot ignores the request and asks again.  
+Once the user types `Joke`, the bot replies with a joke and ends.
 
-Here is a joke for you! Karel is heading out to the grocery store. A programmer tells her: get a liter of milk, and if they have eggs, get 12. Karel returns with 13 liters of milk. The programmer asks why and Karel replies: 'because they had eggs'
+This program should run in a loop until the user types the exact word `Joke` (case-sensitive).
 
-If the user enters anything else we print out:
+![Sample Result](result.jpeg)
 
-Sorry I only tell jokes
+You can solve this using the Karel programming environment provided in Stanford's *Code in Place* course.
 
 ## Solution Link
 
