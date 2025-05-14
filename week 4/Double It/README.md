@@ -1,6 +1,7 @@
+
 ---
 
-**# Doubling the Number**
+# Doubling the Number
 
 ## Problem Statement
 
