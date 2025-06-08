@@ -1,7 +1,6 @@
 
----
 
-# 🌲 Nature Scene Builder
+#  Nature Scene Builder
 
 ## Problem Statement
 
