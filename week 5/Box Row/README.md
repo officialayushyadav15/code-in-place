@@ -1,6 +1,4 @@
 
----
-
 # Line of Boxes
 
 ## Problem Statement
@@ -16,6 +14,4 @@ You can solve this using the python programming environment provided in Stanford
 ## Solution Link
 
 [Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/4woEdzdCS9VMW769Tgv5)
-
----
 
