@@ -18,7 +18,7 @@ Each patch will follow a predefined design, and multiple patches will be arrange
 
 You can solve this using the python programming environment provided in Stanford's *Code in Place* course.
 
-## 🔗 Solution Link
+##  Solution Link
 
 [Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/xiATXGo2VaO52V8Cg6BG)
 
