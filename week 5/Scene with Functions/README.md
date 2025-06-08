@@ -16,6 +16,6 @@ You can solve this using the python programming environment provided in Stanford
 
 [Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/NOe5aGbpZF9HxuDB6Q61)
 
----
+
 
 
