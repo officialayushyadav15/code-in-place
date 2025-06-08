@@ -1,7 +1,6 @@
 
----
 
-# 🇮🇩 Draw the Flag of Indonesia
+# Draw the Flag of Indonesia
 
 ## Problem Statement
 
@@ -18,4 +17,3 @@ You can solve this using the python programming environment provided in Stanford
 
 [Click here to view the solution in the Code in Place editor](https://codeinplace.stanford.edu/cip5/share/6MssgzVboWAYhf2bLp4c)
 
----
